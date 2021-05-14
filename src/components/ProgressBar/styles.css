@@ -1,0 +1,19 @@
+.progress-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.progress {
+    width: 70%;
+    height: 12px;
+    border: 1px solid black;
+    border-radius: 6px;
+    margin-right: 12px;
+}
+
+.progress-value {
+    height: 11px;
+    background: black;
+    width: 60%;
+    border-radius: 6px;
+}

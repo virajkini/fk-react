@@ -1,0 +1,28 @@
+.drawer-wrapper {
+    height: 99.5vh;
+    border-left: 3px solid black;
+    padding: 32px 48px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header img {
+    width: 24px;
+    height: 32px;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+.form {
+    height: 75%;
+    position: relative;
+}
+
+.form .custom-btn {
+    position: absolute;
+    bottom: 0;
+}

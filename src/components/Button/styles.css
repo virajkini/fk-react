@@ -1,0 +1,16 @@
+.custom-btn {
+    background-color: white;
+    border: 1px solid black;
+    padding: 6px 16px;
+    font-weight: 600;
+    cursor: pointer;
+    min-width: 120px;
+}
+
+.custom-btn:hover {
+    background-color: #EEEEEE;
+}
+
+.custom-btn:disabled{
+    border: 1px solid #b9b6b6;
+}

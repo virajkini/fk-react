@@ -1,0 +1,10 @@
+.main-wrapper {
+    padding: 32px 24px;
+    height: 100vh;
+    overflow: scroll;
+}
+
+.filter {
+    display: grid;
+    grid-template-columns: auto auto;
+}
